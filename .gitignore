@@ -1,0 +1,12 @@
+node_modules
+examples/call-contract-with-token/index1.js
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+
+# Hardhat files
+cache
+artifacts
+
